@@ -22,6 +22,9 @@
 
 During this week, I practiced HTML by building several webpages and completing projects on freeCodeCamp. 
 
+### Personal Portofolio
+Created portfolio using basic HTML
+
 ## 🧠 Key Takeaways
 
 - Learned how different HTML elements work together to structure a webpage.
