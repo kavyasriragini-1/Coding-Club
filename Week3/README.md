@@ -31,3 +31,6 @@
 - ARIA can help make web content more accessible.
 - Understanding computer basics is essential for every developer.
 - Hands-on practice helped me understand concepts better than theory alone.
+
+## 🎯 Progress
+Continued strengthening my HTML fundamentals through tables, forms, accessibility, ARIA, and computer basics, with hands-on projects and quizzes.
