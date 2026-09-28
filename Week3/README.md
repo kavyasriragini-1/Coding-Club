@@ -11,12 +11,12 @@
 - Accessibility principles for web development
   
 ## 🛠️ Projects & Hands-on Practice in freecodecamp website
-- Tables & Forms
+### Tables & Forms
 - Build a Final Exams Table
 - Build a Book Catalog Table
 - Build a Survey Form
 - Build a Tech Conference Schedule Table
-- Accessibility & ARIA
+### Accessibility & ARIA
 - Debug a Coding Journey Blog Page
 - Debug a Donation Form
 - Build an Accessible Audio Controller
