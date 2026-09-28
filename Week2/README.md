@@ -21,6 +21,16 @@
 ## 💻 Projects & Practice
 
 During this week, I practiced HTML by building several webpages and completing projects on freeCodeCamp. 
+- Build a Cat Photo App
+- Build a Recipe Page 
+- Build a Bookstore Page
+- Build a Travel Agency Page
+- Build an HTML Music Player
+- Build an HTML Video Player
+- Build an HTML Audio and Video Player 
+
+### Personal Portofolio
+Created portfolio using basic HTML
 
 ## 🧠 Key Takeaways
 
