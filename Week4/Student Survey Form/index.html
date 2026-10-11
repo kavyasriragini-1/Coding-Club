@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Student Survey Form</h1>
+    <p id="description">This form is created to collect all the details of the students.</p>
+    <form id="survey-form">
+      <fieldset id="personal-details">
+        <legend>Personal Information</legend>
+        <label for="name" id="name-label">Full Name: </label>
+        <input  required id="name" name="name" type="text" placeholder="e.g., Jason Kristofer">
+        <label for="email" id="email-label"><br>College Email: </label>
+        <input id="email" name="email" required type="email" placeholder="Enter your college email id">
+        <label for="roll-no" id="rollno-label"><br>Roll No: </label>
+        <input required id="roll-no" type="string" minlength="10" maxlength="15" placeholder="e.g., AP25110074367">
+        <label for="number" id="number-label"><br>Phone Number: </label>
+        <input id="number" name="number" type="number" min="10" max="10" placeholder="Enter number" style="width: 170px; ">
+      </fieldset>
+      <fieldset id="Acadamic details">
+        <legend>Acadamic details</legend>
+        <label for="dropdown">Current Degree: </label>
+        <select required id="dropdown" placeholder="Enter degree">
+          <option disabled selected>--Select a option--</option>
+          <option id="option-1">BTech</option>
+          <option id="option-2">B.com</option>
+          <option id="option-3">B.Sc</option>
+          <option id="option-4">B.B.A</option>
+        </select>
+        <label for="year"><br>Current Year: </label>
+        <input id="year-1" type="radio" name="current year" value="1">1st Year
+        <input id="year-2" type="radio" name="current year" value="2">2nd Year
+        <input id="year-3" type="radio" name="current year" value="3">3rd year
+        <input id="year-4" type="radio" name="current year" value="4">4th Year
+        <label for="Section"><br>Section</label>
+        <input type="checkbox" id="option-1" value="A">A
+        <input type="checkbox" id="option-2" value="B">B
+        <input type="checkbox" id="option-3" value="C">C
+        <input type="checkbox" id="option-4" value="D">D
+      </fieldset>
+      <label for="comments"><br>Comments</label>
+      <textarea width="600" height="600" type="text" name="comments"  id="comments" placeholder="**Comment**"></textarea>
+      <br><button id="submit" type="submit" name="submit">Submit</button>
+    </form>
+  </body>
+</html>
